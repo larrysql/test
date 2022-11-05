@@ -257,6 +257,10 @@ void WorkerManager::ShowEmp()
 	}
 }
 
+void WorkerManager::delEmp()
+{
+
+}
 WorkerManager::~WorkerManager()
 {
 	if (this->m_EmpArray != NULL)

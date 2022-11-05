@@ -41,6 +41,7 @@ int main()
 			wm.ShowEmp();
 			break;
 		case 3:
+			wm.delEmp();
 			break;
 		case4:
 			break;

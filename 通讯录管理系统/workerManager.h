@@ -33,6 +33,9 @@ public:
 	//从文件中读取数据
 	void initEmp();
 
+	//删除职工
+	void delEmp();
+
 	//记录职工人数
 	int m_EmpNum;
 
